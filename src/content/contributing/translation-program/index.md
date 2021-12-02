@@ -5,9 +5,9 @@ description: How to contribute to ethereum.org's Translation Program
 sidebar: true
 ---
 
-# Translation Program {#translation-program}
+# Programa de Traducción {#translation-program}
 
-The Translation Program is a collaborative effort to translate ethereum.org into different languages in order to make the website more accessible to billions of non-English speakers around the world.
+El Programa de Traducción es un esfuerzo colaborativo para traducir ethereum.org en diferentes lenguajes para hacer el sitio web mas accesible a billones de oradores No-Inglés alrededor del mundo.
 
 Our progress so far:
 
